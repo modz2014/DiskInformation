@@ -1,0 +1,32 @@
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\bin\Debug\DiskInformation.exe.config
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\bin\Debug\DiskInformation.exe
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\bin\Debug\DiskInformation.pdb
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csprojAssemblyReference.cache
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\obj\Debug\DiskInformation.Form1.resources
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\obj\Debug\DiskInformation.Properties.Resources.resources
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.GenerateResource.cache
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.CoreCompileInputs.cache
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\obj\Debug\DiskInformation.exe
+D:\Projects\Desktop\Tutorials\DiskInformation\DiskInformation\obj\Debug\DiskInformation.pdb
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\bin\Debug\DiskInformation.exe.config
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\bin\Debug\DiskInformation.exe
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\bin\Debug\DiskInformation.pdb
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.AssemblyReference.cache
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.Form1.resources
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.Properties.Resources.resources
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.GenerateResource.cache
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.exe
+C:\Users\James\Downloads\Disk Information By UK Academe\DiskInformation\DiskInformation\obj\Debug\DiskInformation.pdb
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.Form1.resources
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.Properties.Resources.resources
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.GenerateResource.cache
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.exe
+C:\Users\James\Desktop\DiskInformation\DiskInformation\obj\Debug\DiskInformation.pdb
+C:\Users\James\Desktop\DiskInformation\DiskInformation\bin\Debug\DiskInformation.exe.config
+C:\Users\James\Desktop\DiskInformation\DiskInformation\bin\Debug\DiskInformation.exe
+C:\Users\James\Desktop\DiskInformation\DiskInformation\bin\Debug\DiskInformation.pdb
